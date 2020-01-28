@@ -1,7 +1,7 @@
 # POL-UA850
 (Still constructing...)
 
-This repository contains recitation materials for **POL-UA850 Introduction to Research Methods for Politics**
+This repository contains recitation materials for **POL-UA850 Introduction to Research Methods for Politics**.
 
 I will frequently update the website. 
 
