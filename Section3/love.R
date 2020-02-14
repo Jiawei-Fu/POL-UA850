@@ -29,3 +29,8 @@ arrows(-11,8,14,8,lwd=10,col = "gold")
 arrows(14,8,-11,8,lwd=10,col = "gold",angle = 120)
 arrows(14,8,-10,8,lwd=10,col = "gold",angle = 120)
 arrows(14,8,-9,8,lwd=10,col = "gold",angle = 120)
+
+
+
+
+
